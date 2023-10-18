@@ -3,3 +3,6 @@ langchain
 tiktoken
 pinecone-client
 python-dotenv
+PyPDF2
+pillow
+pytesseract
